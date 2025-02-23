@@ -42,6 +42,6 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 @Composable
 fun GreetingPreview() {
     CoinCareAppTheme {
-        Greeting("Navod Jayasundara")
+        Greeting("Navod Jayasundara Ready to Testing")
     }
 }
